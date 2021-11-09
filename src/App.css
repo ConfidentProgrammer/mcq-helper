@@ -36,3 +36,40 @@
     transform: rotate(360deg);
   }
 }
+
+.login-username {
+  vertical-align: middle;
+  margin: 10px;
+}
+
+.table-custom tr {
+  font-size: 1.1rem;
+
+ 
+}
+.table-custom {
+  padding: 8px;
+  margin: 30px auto;
+
+}
+.table-custom .ans {
+padding:0px 40px;
+background-color: #21252910;
+}
+.table-custom th{
+  border: 3px solid #212529;
+  font-size: 1.5rem;
+  padding:0px 40px;
+}
+#options {
+ padding: 10px;
+ margin: 10px;
+}
+.answers-container {
+  display: flex;
+  margin: 20px auto;
+  width: 220px;
+  
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
